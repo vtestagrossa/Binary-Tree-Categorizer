@@ -1,0 +1,15 @@
+a(b(c)(d))(e(f))
+
+si = 0
+ei = 15
+index = 9
+
+left
+si = 2 = b
+ei = 8
+index = 5
+
+right
+si = 11 = e
+ei = 14
+index = 15
